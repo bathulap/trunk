@@ -1,1 +1,2 @@
+using the diff command in git
 first trunk file
