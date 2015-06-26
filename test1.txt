@@ -1,4 +1,4 @@
-
+chage gmopmfpaf
 moving to stagin and commiting at oonce
 using the diff command in git
 first trunk file
