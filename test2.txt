@@ -1,3 +1,4 @@
+adding to the cached area and commiting at once
 second trunk file  
 
 diff command practice
